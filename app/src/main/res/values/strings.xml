@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Testing</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_user_home">UserHomeActivity</string>
+    <string name="title_activity_resting_heart_rate">RestingHeartRate</string>
+    <string name="title_activity_monitor_heart_rate">MonitorHeartRateActivity</string>
+    <string name="title_activity_heart_rate_monitor">HeartRateMonitor</string>
+    <string name="title_activity_real_base_hr">RealBaseHRActivity</string>
+    <string name="title_activity_real_monitoring">RealMonitoringActivity</string>
+</resources>
